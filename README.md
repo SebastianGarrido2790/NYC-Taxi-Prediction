@@ -133,7 +133,7 @@ nyc-taxi-demand-forecasting/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/<your-username>/nyc-taxi-demand-forecasting.git
+git clone https://github.com/SebastianGarrido2790/nyc-taxi-demand-forecasting.git
 cd nyc-taxi-demand-forecasting
 ```
 
