@@ -202,7 +202,7 @@ streamlit run models/dashboard.py
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENCE.txt)) file for details.
+This project is licensed under the MIT License. See the [LICENCE](./LICENCE.txt)) file for details.
 
 ---
 
