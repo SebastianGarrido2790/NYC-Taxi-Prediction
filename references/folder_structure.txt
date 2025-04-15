@@ -24,14 +24,14 @@
 │                         the creator's initials, and a short `-` delimited description, e.g.
 │                         `1.0-jqp-initial-data-exploration`.
 │
-├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-│   ├── large_dataset_assessment.md    <- Analyze dataset size.
-│   ├── lookup_table.md    <- Analysis of taxi_zone_lookup.csv
-│   ├── problem_statement.md    <- Describe business problem to be solve.   
+├── references         <- Data dictionaries, manuals, and all other explanatory materials.   
 │   ├── data_dictionary_trip_records_yellow.pdf    <- Data dictionary.
 │   └── TLC_Taxi_Zones_Manhattan.jpg    <- Zone of interest.
 │
 ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
+│   ├── large_dataset_assessment.md    <- Analyze dataset size.
+│   ├── lookup_table.md    <- Analysis of taxi_zone_lookup.csv
+│   ├── problem_statement.md    <- Describe business problem to be solve.
 │   └── figures        <- Generated graphics and figures to be used in reporting
 │
 ├── environment.yml   <- The requirements file for reproducing the analysis environment.
