@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/47546fd0f4fd4932bf120612ece17016/artifacts
+end_time: 1743456859565
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 47546fd0f4fd4932bf120612ece17016
+run_name: secretive-bat-396
+run_uuid: 47546fd0f4fd4932bf120612ece17016
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743456847582
+status: 3
+tags: []
+user_id: sebas

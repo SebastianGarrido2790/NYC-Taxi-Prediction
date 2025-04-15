@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/b80be0b1a00542c78af3e59e8d77fc7d/artifacts
+end_time: 1743456668049
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: b80be0b1a00542c78af3e59e8d77fc7d
+run_name: able-fish-491
+run_uuid: b80be0b1a00542c78af3e59e8d77fc7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743456654037
+status: 3
+tags: []
+user_id: sebas

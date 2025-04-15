@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Documents/Data_Science/Portafolio/NYC_Taxis_Project/models/batch-scoring_system/mlruns/641516180722308540/589def00aaf14d27997546e1aa5f6e9d/artifacts
+end_time: 1744731357836
+entry_point_name: ''
+experiment_id: '641516180722308540'
+lifecycle_stage: active
+run_id: 589def00aaf14d27997546e1aa5f6e9d
+run_name: XGBoost_Parameter_Tuning
+run_uuid: 589def00aaf14d27997546e1aa5f6e9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744731351014
+status: 3
+tags: []
+user_id: sebas

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/2f684020ab9643acb200af6dcd6dfca5/artifacts
+end_time: 1743456738520
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 2f684020ab9643acb200af6dcd6dfca5
+run_name: honorable-stag-182
+run_uuid: 2f684020ab9643acb200af6dcd6dfca5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743456730427
+status: 3
+tags: []
+user_id: sebas

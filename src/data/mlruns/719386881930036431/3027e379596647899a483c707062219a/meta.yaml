@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/3027e379596647899a483c707062219a/artifacts
+end_time: 1743295595069
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 3027e379596647899a483c707062219a
+run_name: handsome-deer-101
+run_uuid: 3027e379596647899a483c707062219a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743295586487
+status: 3
+tags: []
+user_id: sebas

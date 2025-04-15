@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/407af3e765d9407daab722bcf26b89de/artifacts
+end_time: 1743296126617
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 407af3e765d9407daab722bcf26b89de
+run_name: sassy-seal-993
+run_uuid: 407af3e765d9407daab722bcf26b89de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743296118366
+status: 3
+tags: []
+user_id: sebas

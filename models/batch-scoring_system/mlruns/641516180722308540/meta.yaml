@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/sebas/Documents/Data_Science/Portafolio/NYC_Taxis_Project/models/batch-scoring_system/mlruns/641516180722308540
+creation_time: 1744074520011
+experiment_id: '641516180722308540'
+last_update_time: 1744074520011
+lifecycle_stage: active
+name: NYC_Taxi_Demand_Training_Pipeline

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/651abc4b71804d61b77646a6e9362e86/artifacts
+end_time: 1743296137850
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 651abc4b71804d61b77646a6e9362e86
+run_name: blushing-calf-590
+run_uuid: 651abc4b71804d61b77646a6e9362e86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743296126645
+status: 3
+tags: []
+user_id: sebas

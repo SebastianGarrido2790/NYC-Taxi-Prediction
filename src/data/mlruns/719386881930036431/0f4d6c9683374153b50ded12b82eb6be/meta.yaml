@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/0f4d6c9683374153b50ded12b82eb6be/artifacts
+end_time: 1743295728632
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 0f4d6c9683374153b50ded12b82eb6be
+run_name: mercurial-owl-144
+run_uuid: 0f4d6c9683374153b50ded12b82eb6be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743295711995
+status: 3
+tags: []
+user_id: sebas

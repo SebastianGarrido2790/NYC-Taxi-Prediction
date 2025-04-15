@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/054dfe196f58480182321d298a85bdd3/artifacts
+end_time: 1743296500739
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 054dfe196f58480182321d298a85bdd3
+run_name: melodic-snail-813
+run_uuid: 054dfe196f58480182321d298a85bdd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743296487450
+status: 3
+tags: []
+user_id: sebas

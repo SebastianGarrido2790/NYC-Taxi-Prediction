@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/5593861c2a5140388836a24ccb49d2d1/artifacts
+end_time: 1743296308091
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 5593861c2a5140388836a24ccb49d2d1
+run_name: whimsical-lynx-750
+run_uuid: 5593861c2a5140388836a24ccb49d2d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743296299821
+status: 3
+tags: []
+user_id: sebas

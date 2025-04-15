@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/2e58f34e4c32488ba48dd488421fc7ee/artifacts
+end_time: 1743296423747
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 2e58f34e4c32488ba48dd488421fc7ee
+run_name: aged-robin-962
+run_uuid: 2e58f34e4c32488ba48dd488421fc7ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743296415646
+status: 3
+tags: []
+user_id: sebas

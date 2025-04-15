@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/37e14eb8b81942e7976c3367fd515946/artifacts
+end_time: 1743296415602
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 37e14eb8b81942e7976c3367fd515946
+run_name: abrasive-midge-213
+run_uuid: 37e14eb8b81942e7976c3367fd515946
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743296408555
+status: 3
+tags: []
+user_id: sebas

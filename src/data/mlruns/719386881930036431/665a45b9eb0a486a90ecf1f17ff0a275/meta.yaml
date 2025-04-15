@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/665a45b9eb0a486a90ecf1f17ff0a275/artifacts
+end_time: 1743439468125
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 665a45b9eb0a486a90ecf1f17ff0a275
+run_name: efficient-crow-106
+run_uuid: 665a45b9eb0a486a90ecf1f17ff0a275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743439453886
+status: 3
+tags: []
+user_id: sebas

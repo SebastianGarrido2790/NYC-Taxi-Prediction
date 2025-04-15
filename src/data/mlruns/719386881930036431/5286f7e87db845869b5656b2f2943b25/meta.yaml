@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/5286f7e87db845869b5656b2f2943b25/artifacts
+end_time: 1743431470625
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 5286f7e87db845869b5656b2f2943b25
+run_name: XGBoost_Parameter_Tuning
+run_uuid: 5286f7e87db845869b5656b2f2943b25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743431379329
+status: 3
+tags: []
+user_id: sebas

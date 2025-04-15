@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/7da98a60fd96487c8b7331c3ba356851/artifacts
+end_time: 1743439554335
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 7da98a60fd96487c8b7331c3ba356851
+run_name: victorious-mouse-866
+run_uuid: 7da98a60fd96487c8b7331c3ba356851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743439539894
+status: 3
+tags: []
+user_id: sebas

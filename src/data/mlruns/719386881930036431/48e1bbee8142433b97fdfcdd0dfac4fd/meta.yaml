@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/48e1bbee8142433b97fdfcdd0dfac4fd/artifacts
+end_time: 1743439705327
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 48e1bbee8142433b97fdfcdd0dfac4fd
+run_name: inquisitive-bear-399
+run_uuid: 48e1bbee8142433b97fdfcdd0dfac4fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743439691643
+status: 3
+tags: []
+user_id: sebas

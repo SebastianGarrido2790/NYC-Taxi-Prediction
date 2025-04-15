@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/df02cb6dca584c809abde420b1357edd/artifacts
+end_time: 1743296279459
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: df02cb6dca584c809abde420b1357edd
+run_name: victorious-sheep-669
+run_uuid: df02cb6dca584c809abde420b1357edd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743296274469
+status: 3
+tags: []
+user_id: sebas

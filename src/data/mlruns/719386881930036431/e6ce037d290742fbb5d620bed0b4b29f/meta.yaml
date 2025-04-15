@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/e6ce037d290742fbb5d620bed0b4b29f/artifacts
+end_time: 1743295646245
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: e6ce037d290742fbb5d620bed0b4b29f
+run_name: luxuriant-conch-537
+run_uuid: e6ce037d290742fbb5d620bed0b4b29f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743295635682
+status: 3
+tags: []
+user_id: sebas

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/965b949f67444a3cb5ef4f3c2fc4bf44/artifacts
+end_time: 1743296198379
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 965b949f67444a3cb5ef4f3c2fc4bf44
+run_name: dazzling-slug-509
+run_uuid: 965b949f67444a3cb5ef4f3c2fc4bf44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743296187745
+status: 3
+tags: []
+user_id: sebas

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/mlruns/596354334458735797/cbd996aefe424060af74297980e64956/artifacts
+end_time: 1743539498453
+entry_point_name: ''
+experiment_id: '596354334458735797'
+lifecycle_stage: active
+run_id: cbd996aefe424060af74297980e64956
+run_name: Busy_Zones_Analysis
+run_uuid: cbd996aefe424060af74297980e64956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743539450651
+status: 3
+tags: []
+user_id: sebas

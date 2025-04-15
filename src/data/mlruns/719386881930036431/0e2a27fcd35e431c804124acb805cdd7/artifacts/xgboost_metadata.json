@@ -1,0 +1,48 @@
+{
+    "model_name": "xgboost",
+    "model_type": "XGBRegressor",
+    "features": [
+        "hour_of_day",
+        "day_of_week",
+        "day_of_month",
+        "is_weekend",
+        "is_holiday",
+        "is_rush_hour",
+        "temperature",
+        "humidity",
+        "wind_speed",
+        "cloud_cover_numeric",
+        "amount_of_precipitation",
+        "is_downtown",
+        "lag_1_ride_count",
+        "lag_2_ride_count",
+        "lag_3_ride_count",
+        "lag_6_ride_count",
+        "lag_12_ride_count",
+        "lag_24_ride_count",
+        "rolling_mean_3h",
+        "rolling_mean_24h"
+    ],
+    "parameters": {
+        "learning_rate": 0.3,
+        "max_depth": 7,
+        "min_child_weight": 1,
+        "n_estimators": 200,
+        "subsample": 0.8
+    },
+    "training_timestamp": "20250331_182858",
+    "metrics": {
+        "train_mae": 18.02622788760077,
+        "train_mse": 1237.7074910872225,
+        "train_rmse": 35.18106722496096,
+        "test_mae": 22.08801517912163,
+        "test_mse": 1753.5045351102349,
+        "test_rmse": 41.874867583196426
+    },
+    "cross_validation": {
+        "cv_mae_mean": 29.93432700054508,
+        "cv_mae_std": 6.540817388571681
+    },
+    "training_data_size": 94656,
+    "feature_count": 20
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/85e1b390aa684507bb19c9fb3b7e01aa/artifacts
+end_time: 1743296441429
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 85e1b390aa684507bb19c9fb3b7e01aa
+run_name: calm-croc-112
+run_uuid: 85e1b390aa684507bb19c9fb3b7e01aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743296432377
+status: 3
+tags: []
+user_id: sebas

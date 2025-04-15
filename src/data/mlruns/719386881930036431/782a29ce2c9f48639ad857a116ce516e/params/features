@@ -1,0 +1,1 @@
+['hour_of_day', 'day_of_week', 'day_of_month', 'is_weekend', 'is_holiday', 'is_rush_hour', 'temperature', 'humidity', 'wind_speed', 'cloud_cover_numeric', 'amount_of_precipitation', 'is_downtown', 'lag_1_ride_count', 'lag_2_ride_count', 'lag_3_ride_count', 'lag_6_ride_count', 'lag_12_ride_count', 'lag_24_ride_count', 'rolling_mean_3h', 'rolling_mean_24h']

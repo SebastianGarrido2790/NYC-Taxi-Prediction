@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/631043c77b9545899ebf9ac216dd51cd/artifacts
+end_time: 1743295603423
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 631043c77b9545899ebf9ac216dd51cd
+run_name: blushing-slug-716
+run_uuid: 631043c77b9545899ebf9ac216dd51cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743295595091
+status: 3
+tags: []
+user_id: sebas

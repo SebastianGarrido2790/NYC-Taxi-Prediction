@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/273fcf770109479aa07e83b801c74ce7/artifacts
+end_time: 1743296225651
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 273fcf770109479aa07e83b801c74ce7
+run_name: likeable-donkey-837
+run_uuid: 273fcf770109479aa07e83b801c74ce7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743296220174
+status: 3
+tags: []
+user_id: sebas

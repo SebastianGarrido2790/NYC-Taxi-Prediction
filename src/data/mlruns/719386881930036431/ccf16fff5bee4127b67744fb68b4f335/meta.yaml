@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/ccf16fff5bee4127b67744fb68b4f335/artifacts
+end_time: 1743439482396
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: ccf16fff5bee4127b67744fb68b4f335
+run_name: spiffy-finch-354
+run_uuid: ccf16fff5bee4127b67744fb68b4f335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743439468149
+status: 3
+tags: []
+user_id: sebas

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/c1f6fccb66e744eb9d960d9e5ea9af03/artifacts
+end_time: 1743296024219
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: c1f6fccb66e744eb9d960d9e5ea9af03
+run_name: kindly-frog-888
+run_uuid: c1f6fccb66e744eb9d960d9e5ea9af03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743296018817
+status: 3
+tags: []
+user_id: sebas

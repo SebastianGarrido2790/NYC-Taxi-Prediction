@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/8534322bada748db9490dae4b2109c7f/artifacts
+end_time: 1743295900205
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 8534322bada748db9490dae4b2109c7f
+run_name: defiant-midge-210
+run_uuid: 8534322bada748db9490dae4b2109c7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743295874447
+status: 3
+tags: []
+user_id: sebas

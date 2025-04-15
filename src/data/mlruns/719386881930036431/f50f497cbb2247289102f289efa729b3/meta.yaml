@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/f50f497cbb2247289102f289efa729b3/artifacts
+end_time: 1743456805510
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: f50f497cbb2247289102f289efa729b3
+run_name: luminous-mink-448
+run_uuid: f50f497cbb2247289102f289efa729b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743456794513
+status: 3
+tags: []
+user_id: sebas

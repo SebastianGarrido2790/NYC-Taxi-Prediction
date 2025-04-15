@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/db447aa7cc7a4447afcc42f638dd9f20/artifacts
+end_time: 1743456794482
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: db447aa7cc7a4447afcc42f638dd9f20
+run_name: clumsy-shrew-278
+run_uuid: db447aa7cc7a4447afcc42f638dd9f20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743456786468
+status: 3
+tags: []
+user_id: sebas

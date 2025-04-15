@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/826f0e7066ba4ad9a0859244c32cec7f/artifacts
+end_time: 1743439391637
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 826f0e7066ba4ad9a0859244c32cec7f
+run_name: angry-crow-231
+run_uuid: 826f0e7066ba4ad9a0859244c32cec7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743439378152
+status: 3
+tags: []
+user_id: sebas

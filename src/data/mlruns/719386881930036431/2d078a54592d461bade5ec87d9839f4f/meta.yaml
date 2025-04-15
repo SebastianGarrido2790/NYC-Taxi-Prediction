@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/2d078a54592d461bade5ec87d9839f4f/artifacts
+end_time: 1743295496205
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 2d078a54592d461bade5ec87d9839f4f
+run_name: bright-skink-3
+run_uuid: 2d078a54592d461bade5ec87d9839f4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743295488631
+status: 3
+tags: []
+user_id: sebas

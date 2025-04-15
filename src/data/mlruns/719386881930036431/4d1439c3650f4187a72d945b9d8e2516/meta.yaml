@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/4d1439c3650f4187a72d945b9d8e2516/artifacts
+end_time: 1743439186976
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 4d1439c3650f4187a72d945b9d8e2516
+run_name: skittish-wren-42
+run_uuid: 4d1439c3650f4187a72d945b9d8e2516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743439175663
+status: 3
+tags: []
+user_id: sebas

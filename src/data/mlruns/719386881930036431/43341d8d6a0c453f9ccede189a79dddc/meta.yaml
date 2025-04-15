@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/43341d8d6a0c453f9ccede189a79dddc/artifacts
+end_time: 1743296251681
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 43341d8d6a0c453f9ccede189a79dddc
+run_name: shivering-rook-289
+run_uuid: 43341d8d6a0c453f9ccede189a79dddc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743296243683
+status: 3
+tags: []
+user_id: sebas

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/8ca14991b1044f69b0597c41bb2cc444/artifacts
+end_time: 1743439208744
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 8ca14991b1044f69b0597c41bb2cc444
+run_name: peaceful-bug-20
+run_uuid: 8ca14991b1044f69b0597c41bb2cc444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743439187048
+status: 3
+tags: []
+user_id: sebas

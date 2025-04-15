@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/a355130cc5634e4f97d640e17c66827d/artifacts
+end_time: 1743295567552
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: a355130cc5634e4f97d640e17c66827d
+run_name: thundering-shad-61
+run_uuid: a355130cc5634e4f97d640e17c66827d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743295547759
+status: 3
+tags: []
+user_id: sebas

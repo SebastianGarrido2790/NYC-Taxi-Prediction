@@ -1,0 +1,47 @@
+artifact_path: xgboost_model
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.9.21
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBRegressor
+    model_format: xgb
+    xgb_version: 2.1.4
+is_signature_from_type_hint: false
+mlflow_version: 2.21.0
+model_size_bytes: 4756737
+model_uuid: 1d7dbb20475946ffb78c86b46eaf1db3
+prompts: null
+run_id: 4389b0ade49b4e508918863bdb69e4a4
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "hour_of_day", "required": true}, {"type":
+    "double", "name": "day_of_week", "required": true}, {"type": "double", "name":
+    "day_of_month", "required": true}, {"type": "double", "name": "is_weekend", "required":
+    true}, {"type": "double", "name": "is_holiday", "required": true}, {"type": "double",
+    "name": "is_rush_hour", "required": true}, {"type": "double", "name": "temperature",
+    "required": true}, {"type": "double", "name": "humidity", "required": true}, {"type":
+    "double", "name": "wind_speed", "required": true}, {"type": "double", "name":
+    "cloud_cover_numeric", "required": true}, {"type": "double", "name": "amount_of_precipitation",
+    "required": true}, {"type": "double", "name": "is_downtown", "required": true},
+    {"type": "double", "name": "lag_1_ride_count", "required": true}, {"type": "double",
+    "name": "lag_2_ride_count", "required": true}, {"type": "double", "name": "lag_3_ride_count",
+    "required": true}, {"type": "double", "name": "lag_6_ride_count", "required":
+    true}, {"type": "double", "name": "lag_12_ride_count", "required": true}, {"type":
+    "double", "name": "lag_24_ride_count", "required": true}, {"type": "double", "name":
+    "rolling_mean_3h", "required": true}, {"type": "double", "name": "rolling_mean_24h",
+    "required": true}]'
+  outputs: '[{"type": "float", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-03-31 16:38:55.187896'

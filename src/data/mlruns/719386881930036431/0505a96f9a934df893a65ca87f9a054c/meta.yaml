@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/0505a96f9a934df893a65ca87f9a054c/artifacts
+end_time: 1743439539874
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 0505a96f9a934df893a65ca87f9a054c
+run_name: polite-colt-200
+run_uuid: 0505a96f9a934df893a65ca87f9a054c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743439526907
+status: 3
+tags: []
+user_id: sebas

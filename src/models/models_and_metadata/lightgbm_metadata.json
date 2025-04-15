@@ -1,0 +1,48 @@
+{
+    "model_name": "lightgbm",
+    "model_type": "LGBMRegressor",
+    "features": [
+        "hour_of_day",
+        "day_of_week",
+        "day_of_month",
+        "is_weekend",
+        "is_holiday",
+        "is_rush_hour",
+        "temperature",
+        "humidity",
+        "wind_speed",
+        "cloud_cover_numeric",
+        "amount_of_precipitation",
+        "is_downtown",
+        "lag_1_ride_count",
+        "lag_2_ride_count",
+        "lag_3_ride_count",
+        "lag_6_ride_count",
+        "lag_12_ride_count",
+        "lag_24_ride_count",
+        "rolling_mean_3h",
+        "rolling_mean_24h"
+    ],
+    "parameters": {
+        "learning_rate": 0.1,
+        "max_depth": 7,
+        "min_data_in_leaf": 50,
+        "n_estimators": 200,
+        "subsample": 0.8
+    },
+    "training_timestamp": "20250331_183519",
+    "metrics": {
+        "train_mae": 21.167170336739357,
+        "train_mse": 1895.4734836078544,
+        "train_rmse": 43.537035769650814,
+        "test_mae": 23.05187077836198,
+        "test_mse": 2165.1489626089547,
+        "test_rmse": 46.53116119987717
+    },
+    "cross_validation": {
+        "cv_mae_mean": 28.53266354519577,
+        "cv_mae_std": 6.599816736476098
+    },
+    "training_data_size": 94656,
+    "feature_count": 20
+}

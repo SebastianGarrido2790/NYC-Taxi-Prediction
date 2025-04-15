@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Documents/Data_Science/Portafolio/NYC_Taxis_Project/models/batch-scoring_system/mlruns/525852897025373717/4c0b6845ec9d4cc0b4848a3b6f69f10c/artifacts
+end_time: 1744064556419
+entry_point_name: ''
+experiment_id: '525852897025373717'
+lifecycle_stage: active
+run_id: 4c0b6845ec9d4cc0b4848a3b6f69f10c
+run_name: Data_Ingestion
+run_uuid: 4c0b6845ec9d4cc0b4848a3b6f69f10c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744060955493
+status: 3
+tags: []
+user_id: sebas

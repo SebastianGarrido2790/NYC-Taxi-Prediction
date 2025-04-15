@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744084049003
+current_stage: None
+description: null
+last_updated_timestamp: 1744084049003
+name: NYC_Taxi_Demand_XGBoost
+run_id: 621728f936b5406fa0cf1119a2465b9b
+run_link: null
+source: file:///c:/Users/sebas/Documents/Data_Science/Portafolio/NYC_Taxis_Project/models/batch-scoring_system/mlruns/641516180722308540/621728f936b5406fa0cf1119a2465b9b/artifacts/xgboost_model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/sebas/Documents/Data_Science/Portafolio/NYC_Taxis_Project/models/batch-scoring_system/mlruns/641516180722308540/621728f936b5406fa0cf1119a2465b9b/artifacts/xgboost_model
+user_id: null
+version: 3

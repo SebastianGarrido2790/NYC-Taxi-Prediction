@@ -1,0 +1,58 @@
+name: taxi_demand_prediction
+
+# Specify the channels to search for packages
+channels:
+  - conda-forge
+  - defaults
+
+# Define dependencies for the project
+dependencies:
+  # Core Python and environment management
+  - python=3.9  # Stable version compatible with all libraries
+  - pip
+
+  # Data processing and manipulation
+  - pandas>=1.5.0  # For data manipulation
+  - numpy>=1.23.0  # For numerical operations
+  - dask>=2023.10.0  # For out-of-memory computation with large datasets
+  - pyarrow>=12.0.0  # For reading/writing Parquet files
+  - python-dateutil>=2.8.2  # For handling dates in feature engineering
+  - fastparquet>=2023.0  # Alternative Parquet engine, useful for compatibility
+
+  # Machine learning libraries
+  - scikit-learn>=1.3.0  # For train-test split, metrics (MAE), and preprocessing
+  - lightgbm>=4.0.0  # For initial ML model
+  - xgboost>=2.0.0  # For alternative ML model
+  - mlflow>=2.8.0  # For experiment tracking and model registry
+
+  # Visualization and monitoring
+  - matplotlib>=3.7.0  # For plotting in visualize.py
+  - seaborn>=0.12.0  # For enhanced visualizations
+  - streamlit>=1.28.0  # For building the monitoring dashboard
+  - plotly>=5.18.0  # For interactive plots in Streamlit
+  - folium>=0.14.0  # For creating interactive maps (heatmaps) in the dashboard
+  - streamlit-folium>=0.13.0  # For integrating Folium maps with Streamlit
+
+  # Development tools
+  - jupyter>=1.0.0  # For running Jupyter notebooks
+  - ipykernel>=6.25.0  # For Jupyter kernel
+  - sphinx>=7.2.0  # For documentation in docs/
+  - nbsphinx>=0.9.3  # For including notebooks in Sphinx docs
+  - black>=23.10.0  # For code formatting
+  - flake8>=6.1.0  # For linting
+  - pytest>=7.4.0  # For unit testing
+  - mypy>=1.5.0  # For type checking
+
+  # Additional utilities
+  - tqdm>=4.66.0  # For progress bars during data processing
+  - requests>=2.31.0  # For downloading external data (e.g., weather data)
+
+  # Pip dependencies (for packages not available in Conda)
+  - pip:
+      - dask-ml>=2023.10.0  # For Dask-compatible ML utilities
+      - holidays>=0.35  # For adding holiday features in feature engineering
+
+# Create environment: conda env create -f environment.yml
+# Activate environment: conda activate taxi_demand_prediction
+# Update environment: conda env update -f environment.yml --prune
+# Remove environment: conda env remove --name taxi_demand_prediction

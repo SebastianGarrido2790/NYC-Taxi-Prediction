@@ -1,0 +1,18 @@
+{
+    "model_name": "baseline_previous_hour",
+    "model_type": "BaselineModelPreviousHour",
+    "features": [
+        "lag_1_ride_count"
+    ],
+    "training_timestamp": "20250329_001337",
+    "metrics": {
+        "train_mae": 48.978543356997974,
+        "train_mse": 8079.1521192528735,
+        "train_rmse": 89.8841038184888,
+        "test_mae": 49.51005462750376,
+        "test_mse": 8182.110046710474,
+        "test_rmse": 90.45501670283674
+    },
+    "training_data_size": 94656,
+    "feature_count": 1
+}

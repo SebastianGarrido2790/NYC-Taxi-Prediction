@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/bb3c972103fe4a4aabb39b6e8db9cab6/artifacts
+end_time: 1743295743073
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: bb3c972103fe4a4aabb39b6e8db9cab6
+run_name: nimble-ray-859
+run_uuid: bb3c972103fe4a4aabb39b6e8db9cab6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743295728655
+status: 3
+tags: []
+user_id: sebas

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/9422648740de47afaac8f107b1345dca/artifacts
+end_time: 1743439303270
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 9422648740de47afaac8f107b1345dca
+run_name: abrasive-owl-94
+run_uuid: 9422648740de47afaac8f107b1345dca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743439281390
+status: 3
+tags: []
+user_id: sebas

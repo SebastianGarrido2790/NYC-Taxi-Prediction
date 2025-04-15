@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/6b0c2caf78464005bb491426af9d308b/artifacts
+end_time: 1743456834928
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 6b0c2caf78464005bb491426af9d308b
+run_name: spiffy-auk-598
+run_uuid: 6b0c2caf78464005bb491426af9d308b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743456827711
+status: 3
+tags: []
+user_id: sebas

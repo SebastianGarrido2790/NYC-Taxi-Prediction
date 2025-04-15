@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/43edb88e0f504bcfbb2071606b9c4da5/artifacts
+end_time: 1743456827680
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 43edb88e0f504bcfbb2071606b9c4da5
+run_name: magnificent-hen-260
+run_uuid: 43edb88e0f504bcfbb2071606b9c4da5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743456819712
+status: 3
+tags: []
+user_id: sebas

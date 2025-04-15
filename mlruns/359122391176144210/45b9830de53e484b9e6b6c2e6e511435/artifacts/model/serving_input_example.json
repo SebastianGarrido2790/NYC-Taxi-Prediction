@@ -1,0 +1,12 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "lag_1_ride_count"
+    ],
+    "data": [
+      [
+        5.0
+      ]
+    ]
+  }
+}

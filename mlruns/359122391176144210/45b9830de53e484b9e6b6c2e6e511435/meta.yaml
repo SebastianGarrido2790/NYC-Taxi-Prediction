@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/mlruns/359122391176144210/45b9830de53e484b9e6b6c2e6e511435/artifacts
+end_time: 1743218043846
+entry_point_name: ''
+experiment_id: '359122391176144210'
+lifecycle_stage: active
+run_id: 45b9830de53e484b9e6b6c2e6e511435
+run_name: Baseline_Previous_Hour
+run_uuid: 45b9830de53e484b9e6b6c2e6e511435
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743218016481
+status: 3
+tags: []
+user_id: sebas

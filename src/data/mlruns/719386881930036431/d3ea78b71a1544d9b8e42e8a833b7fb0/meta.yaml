@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/d3ea78b71a1544d9b8e42e8a833b7fb0/artifacts
+end_time: 1743456654006
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: d3ea78b71a1544d9b8e42e8a833b7fb0
+run_name: charming-bat-906
+run_uuid: d3ea78b71a1544d9b8e42e8a833b7fb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743456646991
+status: 3
+tags: []
+user_id: sebas

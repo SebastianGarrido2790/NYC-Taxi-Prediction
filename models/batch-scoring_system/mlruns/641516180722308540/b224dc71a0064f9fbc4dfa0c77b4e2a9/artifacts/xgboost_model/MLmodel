@@ -1,0 +1,44 @@
+artifact_path: xgboost_model
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.9.21
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBRegressor
+    model_format: xgb
+    xgb_version: 2.1.4
+is_signature_from_type_hint: false
+mlflow_version: 2.21.0
+model_size_bytes: 1308287
+model_uuid: d02e6327a8b146e290adfc73d4c0ccd9
+prompts: null
+run_id: b224dc71a0064f9fbc4dfa0c77b4e2a9
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "hour_of_day", "required": true}, {"type":
+    "double", "name": "day_of_week", "required": true}, {"type": "double", "name":
+    "day_of_month", "required": true}, {"type": "double", "name": "is_weekend", "required":
+    true}, {"type": "double", "name": "is_holiday", "required": true}, {"type": "double",
+    "name": "is_rush_hour", "required": true}, {"type": "double", "name": "temperature",
+    "required": true}, {"type": "double", "name": "humidity", "required": true}, {"type":
+    "double", "name": "wind_speed", "required": true}, {"type": "double", "name":
+    "cloud_cover_numeric", "required": true}, {"type": "double", "name": "amount_of_precipitation",
+    "required": true}, {"type": "double", "name": "is_downtown", "required": true},
+    {"type": "double", "name": "lag_1_ride_count", "required": true}, {"type": "double",
+    "name": "lag_2_ride_count", "required": true}, {"type": "double", "name": "lag_24_ride_count",
+    "required": true}, {"type": "double", "name": "rolling_mean_3h", "required": true},
+    {"type": "double", "name": "rolling_mean_24h", "required": true}]'
+  outputs: '[{"type": "float", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-04-08 02:41:24.374029'

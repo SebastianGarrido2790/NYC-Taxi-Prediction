@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/d3b0bcd8d3b84cf2800966341b09337f/artifacts
+end_time: 1743295856224
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: d3b0bcd8d3b84cf2800966341b09337f
+run_name: awesome-finch-346
+run_uuid: d3b0bcd8d3b84cf2800966341b09337f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743295831746
+status: 3
+tags: []
+user_id: sebas

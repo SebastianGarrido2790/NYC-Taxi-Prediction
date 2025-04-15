@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/791a638d73694d7292f085058a2892f7/artifacts
+end_time: 1743295538235
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 791a638d73694d7292f085058a2892f7
+run_name: stately-panda-305
+run_uuid: 791a638d73694d7292f085058a2892f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743295523288
+status: 3
+tags: []
+user_id: sebas

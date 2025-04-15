@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/1defa9d8f568411b894bce4126c26e12/artifacts
+end_time: 1743456878110
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 1defa9d8f568411b894bce4126c26e12
+run_name: zealous-stag-475
+run_uuid: 1defa9d8f568411b894bce4126c26e12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743456869346
+status: 3
+tags: []
+user_id: sebas

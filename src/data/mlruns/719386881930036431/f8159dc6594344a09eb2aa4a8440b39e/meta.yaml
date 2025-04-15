@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/f8159dc6594344a09eb2aa4a8440b39e/artifacts
+end_time: 1743296152033
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: f8159dc6594344a09eb2aa4a8440b39e
+run_name: nervous-sloth-33
+run_uuid: f8159dc6594344a09eb2aa4a8440b39e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743296137879
+status: 3
+tags: []
+user_id: sebas

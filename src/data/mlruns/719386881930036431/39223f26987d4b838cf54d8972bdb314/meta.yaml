@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/39223f26987d4b838cf54d8972bdb314/artifacts
+end_time: 1743439257834
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 39223f26987d4b838cf54d8972bdb314
+run_name: incongruous-cub-488
+run_uuid: 39223f26987d4b838cf54d8972bdb314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743439244332
+status: 3
+tags: []
+user_id: sebas

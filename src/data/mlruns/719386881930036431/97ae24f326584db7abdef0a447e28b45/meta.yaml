@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/97ae24f326584db7abdef0a447e28b45/artifacts
+end_time: 1743456624104
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 97ae24f326584db7abdef0a447e28b45
+run_name: bright-mole-507
+run_uuid: 97ae24f326584db7abdef0a447e28b45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743456611653
+status: 3
+tags: []
+user_id: sebas

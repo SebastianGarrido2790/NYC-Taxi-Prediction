@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/cb1d6c1fd5b741a1aaa51837a83b5269/artifacts
+end_time: 1743295586460
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: cb1d6c1fd5b741a1aaa51837a83b5269
+run_name: rumbling-skunk-618
+run_uuid: cb1d6c1fd5b741a1aaa51837a83b5269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743295567577
+status: 3
+tags: []
+user_id: sebas

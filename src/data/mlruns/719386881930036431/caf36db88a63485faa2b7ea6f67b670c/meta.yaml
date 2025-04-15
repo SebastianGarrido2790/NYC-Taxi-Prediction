@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/caf36db88a63485faa2b7ea6f67b670c/artifacts
+end_time: 1743295618996
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: caf36db88a63485faa2b7ea6f67b670c
+run_name: tasteful-fawn-710
+run_uuid: caf36db88a63485faa2b7ea6f67b670c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743295603450
+status: 3
+tags: []
+user_id: sebas

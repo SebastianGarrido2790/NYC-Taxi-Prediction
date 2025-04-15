@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/7c6eda3c63e24cd8a8ae56e409c1f559/artifacts
+end_time: 1743456761642
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: 7c6eda3c63e24cd8a8ae56e409c1f559
+run_name: worried-swan-151
+run_uuid: 7c6eda3c63e24cd8a8ae56e409c1f559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743456745425
+status: 3
+tags: []
+user_id: sebas

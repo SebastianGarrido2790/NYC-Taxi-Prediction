@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/c2fff2af7e45485c9333c5686e73be38/artifacts
+end_time: 1743456819696
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: c2fff2af7e45485c9333c5686e73be38
+run_name: unruly-wasp-11
+run_uuid: c2fff2af7e45485c9333c5686e73be38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743456805542
+status: 3
+tags: []
+user_id: sebas

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sebas/Desktop/Nueva_carpeta/NYC_Taxis_Project/src/data/mlruns/719386881930036431/ca81101ef9d04835a3ac3ae61f472a9a/artifacts
+end_time: 1743296577418
+entry_point_name: ''
+experiment_id: '719386881930036431'
+lifecycle_stage: active
+run_id: ca81101ef9d04835a3ac3ae61f472a9a
+run_name: LightGBM
+run_uuid: ca81101ef9d04835a3ac3ae61f472a9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743296018674
+status: 3
+tags: []
+user_id: sebas
