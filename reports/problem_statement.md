@@ -14,25 +14,17 @@ This step involves preparing the raw data for modeling by transforming it into a
 
 - **Validate the Raw Data and Data Cleaning**: We’ll start by loading the TLC Trip Record Data for yellow taxis (January to March 2019) in Parquet format in `data_ingestor.py` script. We’ll use Dask to handle the large dataset efficiently. Validation will include:
 
-    - Checking for missing values in critical columns like pickup/dropoff timestamps, locations (PULocationID, DOLocationID), and passenger counts.
-
-    - Ensuring timestamps are in the correct format and within the expected range (Jan-Mar 2019).
-
-    - Filtering out invalid records (e.g., negative trip distances, missing location IDs, or trips outside Manhattan using the Taxi Zone Lookup Table).
-
-    - Handling outliers, such as unusually high passenger counts or trip distances, using statistical methods like IQR or domain knowledge (e.g., max reasonable taxi ride distance in Manhattan). The cleaned data will be saved to data/interim/.
-
+- Checking for missing values in critical columns like pickup/dropoff timestamps, locations (PULocationID, DOLocationID), and passenger counts.
+- Ensuring timestamps are in the correct format and within the expected range (Jan-Mar 2019).
+- Filtering out invalid records (e.g., negative trip distances, missing location IDs, or trips outside Manhattan using the Taxi Zone Lookup Table).
+- Handling outliers, such as unusually high passenger counts or trip distances, using statistical methods like IQR or domain knowledge (e.g., max reasonable taxi ride distance in Manhattan). The cleaned data will be saved to data/interim/.
 
 - **Feature engineering**: In `feature_engineering.py` script, we’ll create features to capture patterns in taxi demand. Features will include:
 
-    - Temporal Features: Hour of day, day of week, and whether it’s a holiday or weekend.
-    
-    - Historical Ride Counts: Lagged features, such as the number of rides in the previous 1, 2, or 24 hours for each zone.
-    
-    - Weather Data: Temperature, precipitation, and possibly wind speed from the NYC weather dataset, merged with the trip data based on timestamps.
-    
-    - Zone Characteristics: Using the Taxi Zone Lookup Table, we’ll add features like zone area, population density (if available), or categorical features like “Lower Manhattan” for zone 113. We’ll merge the weather and borough data with the trip data using timestamps and location IDs.
-
+- Temporal Features: Hour of day, day of week, and whether it’s a holiday or weekend.
+- Historical Ride Counts: Lagged features, such as the number of rides in the previous 1, 2, or 24 hours for each zone.
+- Weather Data: Temperature, precipitation, and possibly wind speed from the NYC weather dataset, merged with the trip data based on timestamps.
+- Zone Characteristics: Using the Taxi Zone Lookup Table, we’ll add features like zone area, population density (if available), or categorical features like “Lower Manhattan” for zone 113. We’ll merge the weather and borough data with the trip data using timestamps and location IDs.
 
 - **Aggregate Raw Data into Time-Series**: In `make_dataset.py` script, we’ll aggregate the data into hourly counts of rides per Manhattan zone. The target will be the number of rides in the next hour for each zone. For example, for Zone 113 at 2022-06-01 12:00, the target is the number of rides from 13:00 to 14:00, and features will include historical counts, weather, and zone info up to 12:00.
 
@@ -47,11 +39,8 @@ We’ll implement a simple baseline model where the predicted demand for the nex
 We’ll train a machine learning model to outperform the baseline. The four improvement strategies will be:
 
 - **Increase Training Data**: We’ll ensure we’re using all available data from January and February 2019, potentially adding more historical lags (e.g., previous 48 hours).
-
 - **Increase Features**: Add more features like interaction terms (e.g., temperature * precipitation), or additional weather variables (e.g., humidity).
-
 - **Try Another ML Algorithm**: Start with a model like LightGBM (good for tabular data and time-series), then experiment with XGBoost or a simple neural network.
-
 - **Fine-Tune Hyperparameters**: Use MLflow to track experiments and tune hyperparameters like learning rate, tree depth, or number of estimators for LightGBM/XGBoost.
 
 We’ll train the model in `train_model.py` script and generate predictions in `predict_model.py` script, saving models to the models/ directory. MLflow will log metrics (e.g., MAE) and parameters for each run.
@@ -60,9 +49,7 @@ We’ll train the model in `train_model.py` script and generate predictions in `
 We’ll implement a batch-scoring system with three pipelines, following these three steps:
 
 - **Feature Pipeline**: Processes raw data into features (e.g., aggregates hourly counts, merges weather data).
-
 - **Training Pipeline**: Trains the model periodically (e.g., daily or weekly) using the latest data.
-
 - **Inference Pipeline**: Uses the trained model to make predictions on new data.
 
 These pipelines will interact with a Feature Store/Model Registry (e.g., using MLflow’s model registry) to store features and models. We’ll implement this in models/batch-scoring_system folder, ensuring modularity.
@@ -75,10 +62,7 @@ Since we’re in a simulated environment, we’ll use the most recent data from 
 Using Streamlit, we’ll create a dashboard (`frontend.py`) to monitor model performance, as shown in the “And monitoring dashboard” visual. The dashboard will:
 
 - Fetch model predictions and actual targets from the test set (March 2019).
-
 - Plot online error metrics (e.g., MAE over time) and compare them to offline metrics from training.
-
 - Visualize predictions vs. actuals, possibly with a heatmap of demand across Manhattan zones (similar to the Streamlit screenshot).
 
 The dashboard will help us detect model drift or performance degradation in a production-like setting.
-
